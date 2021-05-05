@@ -1,3 +1,4 @@
 # prueba1
 aprender github
-es tes es un programa que me ayudo a entendr y relisa rproyectos en git y github pronto se modficara 
+
+el objetivo de este programa es aprender a usar git y github
